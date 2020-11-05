@@ -1,9 +1,20 @@
 # iOS-Portfolio
-2018-2019 Portfolio
+Hi, I'm Dhruv Chowdhary, and this is my portfolio of projects that I have created in my programming journey. I started this journey by learning the basics of Java. I learned how to use Objects, Iteration, Arrays, and Inheritance. Then I moved on to coding with Swift for iOS devices. I learned how to make basic user interface with stacks and buttons in SwiftUI. I also created some games with more depth in SpriteKit.
 
-Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
 
-I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
+# Java Apps
+**Tic Tac Toe Game**
 
-Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
+This game used 2D arrays and a JFrame with buttons to create a clickable board.
+
+![Screenshot](Tic-Tac-Toe_Example.png)
+
+# iOS Apps
+
+**APBO Game**
+
+This is a shooting singeplayer game in progress. It required a lot of math, collisions, and particles to develop. I plan on adding multiplayer functionality to this game in the future. 
+
+![Screenshot](APBO_Example.png)
+
 
