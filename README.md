@@ -19,6 +19,6 @@ This is a shooting singeplayer game in progress. It required a lot of math, coll
 
 ![Screenshot](APBO_Example.png)
 
-https://github.com/1201dc/APBOv2
+https://github.com/1201dc/Ghost-Pilots
 
 **This app is currently in development!**
