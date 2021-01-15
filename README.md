@@ -9,26 +9,21 @@ This is a Tic Tac Toe game that used 2D arrays and a JFrame with buttons to crea
 
 ![Screenshot](Tic-Tac-Toe_Example.png)
 
-https://github.com/1201dc/Tic-Tac-Toe.git
-
 
 # Swift (iOS) 
-**Space-Shooter**
+[**Space-Shooter**](https://github.com/1201dc/Space-Shooter)
 
 This was my first game in Swift. I followed a tutorial to understand the basics of SpriteKit and added some of my own features to this project such as lives and a limited amount of ammo. This was a great first project to learn how to create games in Swift.
 
 ![Screenshot](Space-Shooter_Example.png)
 
-https://github.com/1201dc/Space-Shooter
 
-
-**Ghost Pilots**
+[**Ghost Pilots**](https://github.com/1201dc/Ghost-Pilots)
 
 This is a shooting singeplayer game in progress. It required a lot of math, collisions, and particles to create smooth motion and animations. I plan on adding multiplayer functionality to this game in the future. 
 
 ![Screenshot](APBO_Example.png)
 
-https://github.com/1201dc/Ghost-Pilots
 
 **This app is currently in development!**
 
