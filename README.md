@@ -30,16 +30,17 @@ This is a shooting singeplayer game in progress. It required a lot of math, coll
 **Version 2.0:**
 
 * Main Menu
-
 <img src="GhostPilotsTitle.png" width="600">
 
 * Endless Mode
-
 <img src="GhostPilots1.png" width="600">
 <img src="GhostPilots2.png" width="600">
 
 * Turret Boss Mode
 <img src="GhostPilotsTurretBoss.png" width="600">
+
+* Global Leaderboard
+<img src="Leaderboard.png" width="600">
 
 **This app is currently in development!**
 
