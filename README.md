@@ -29,7 +29,7 @@ This is a shooting singeplayer game in progress. It required a lot of math, coll
 **Version 2.0:**
 
 Main Menu
-![Screenshot](GhostPilotsTitle.png)
+![Screenshot](GhostPilotsTitle.png | width=100)
 
 Endless Mode
 ![Screenshot](GhostPilots1.png)
