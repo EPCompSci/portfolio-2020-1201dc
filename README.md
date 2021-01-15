@@ -22,3 +22,8 @@ This is a shooting singeplayer game in progress. It required a lot of math, coll
 https://github.com/1201dc/Ghost-Pilots
 
 **This app is currently in development!**
+
+# Programming Experience
+* Java (2019-)
+* Swift (2020-)
+* Python (2020-)
