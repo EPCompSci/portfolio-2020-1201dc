@@ -14,6 +14,11 @@ https://github.com/1201dc/Tic-Tac-Toe.git
 
 # Swift (iOS) 
 **Space-Shooter**
+
+This was my first game in Swift. I followed a tutorial to understand the basics of SpriteKit and added some of my own features to this project such as lives and a limited amount of ammo. This was a great first project to learn how to create games in Swift.
+
+![Screenshot](Tic-Tac-Toe_Example.png)
+
 https://github.com/1201dc/Space-Shooter
 
 
