@@ -13,7 +13,7 @@ https://github.com/1201dc/Tic-Tac-Toe.git
 
 
 # Swift (iOS) 
-**APBO Game**
+**Ghost Pilots**
 
 This is a shooting singeplayer game in progress. It required a lot of math, collisions, and particles to create smooth motion and animations. I plan on adding multiplayer functionality to this game in the future. 
 
