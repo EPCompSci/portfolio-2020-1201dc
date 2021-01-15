@@ -22,15 +22,17 @@ This was my first game in Swift. I followed a tutorial to understand the basics 
 
 This is a shooting singeplayer game in progress. It required a lot of math, collisions, and particles to create smooth motion and animations. There are currently two different modes: "Turret Boss" and "Endless". I plan on adding multiplayer functionality to this game in the future. 
 
-Version 1.0:
+**Version 1.0:**
 
 ![Screenshot](APBO_Example.png)
 
-Version 2.0:
-
+**Version 2.0:**
+Main Menu
 ![Screenshot](GhostPilotsTitle.png)
+Endless Mode
 ![Screenshot](GhostPilots1.png)
 ![Screenshot](GhostPilots2.png)
+Turret Boss Mode
 
 **This app is currently in development!**
 
