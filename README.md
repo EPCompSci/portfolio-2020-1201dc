@@ -3,7 +3,7 @@ Hi, I'm Dhruv Chowdhary, and this is my portfolio of projects that I have create
 
 
 # Java 
-**Tic Tac Toe Game**
+[**Tic Tac Toe Game**](https://github.com/1201dc/Tic-Tac-Toe.git)
 
 This is a Tic Tac Toe game that used 2D arrays and a JFrame with buttons to create a displayed clickable board. The game automatically switches between the "X" Player and the "O" player after each turn. 
 
