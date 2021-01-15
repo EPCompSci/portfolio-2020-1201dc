@@ -30,7 +30,7 @@ This is a shooting singeplayer game in progress. It required a lot of math, coll
 
 Main Menu
 ![Screenshot](GhostPilotsTitle.png | width="100")
-<img src="GhostPilotsTitle.png" width="324" height="324">
+<img src="GhostPilotsTitle.png" width="324">
 
 Endless Mode
 ![Screenshot](GhostPilots1.png)
