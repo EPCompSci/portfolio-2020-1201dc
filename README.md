@@ -26,7 +26,9 @@ Version 1.0:
 ![Screenshot](APBO_Example.png)
 
 Version 2.0:
-![Screenshot](APBO_Example.png)
+![Screenshot](GhostPilotsTitle)
+![Screenshot](GhostPilots1)
+![Screenshot](GhostPilots2)
 
 **This app is currently in development!**
 
