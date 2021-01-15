@@ -29,11 +29,11 @@ This is a shooting singeplayer game in progress. It required a lot of math, coll
 **Version 2.0:**
 
 Main Menu
-<img src="GhostPilotsTitle.png" width="1000">
+<img src="GhostPilotsTitle.png" width="700">
 
 Endless Mode
-![Screenshot](GhostPilots1.png)
-![Screenshot](GhostPilots2.png)
+<img src="GhostPilots1.png" width="700">
+<img src="GhostPilots2.png" width="700">
 
 Turret Boss Mode
 ![Screenshot](GhostPilotsTurretBoss.png)
