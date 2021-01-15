@@ -27,12 +27,16 @@ This is a shooting singeplayer game in progress. It required a lot of math, coll
 ![Screenshot](APBO_Example.png)
 
 **Version 2.0:**
+
 Main Menu
 ![Screenshot](GhostPilotsTitle.png)
+
 Endless Mode
 ![Screenshot](GhostPilots1.png)
 ![Screenshot](GhostPilots2.png)
+
 Turret Boss Mode
+![Screenshot](GhostPilotsTurretBoss.png)
 
 **This app is currently in development!**
 
